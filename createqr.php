@@ -93,15 +93,15 @@ function qr_settings_page() {
         <td>
        
        
-    <select name="size" id="size">
-	<?php
-	for ($i = 1; $i < 20; $i++) {
-	if ($i == get_option('size')) $selected = " selected='selected'";
-	else $selected = '';
-	echo "\n\t<option value='$i' $selected>$i</option>";
-	}
-	?>
-	</select>
+        <select name="size" id="size">
+        <?php
+        for ($i = 1; $i < 20; $i++) {
+        if ($i == get_option('size')) $selected = " selected='selected'";
+        else $selected = '';
+        echo "\n\t<option value='$i' $selected>$i</option>";
+        }
+        ?>
+        </select>
         
         
         </td>
