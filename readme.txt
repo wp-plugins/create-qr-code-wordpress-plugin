@@ -28,4 +28,9 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 28 april 2010 - Options page has been added
 
 
+== Screenshots ==
+
+1. `../tags/2.1/screenshot-1.jpg`
+2. `../tags/2.1/screenshot-2.jpg`
+
 
