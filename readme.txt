@@ -30,7 +30,7 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 
 == Screenshots ==
 
-1. `/tags/2.1/screenshot-1.jpg`
-2. `/tags/2.1/screenshot-2.jpg`
+1. The generated QR code below a Wordpress post.
+2. The options page of the plugin.
 
 
