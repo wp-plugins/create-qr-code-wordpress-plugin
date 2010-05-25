@@ -22,7 +22,15 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 3. Place `<?php echo qrcode_show(); ?>` in your templates
 
 
+
+
+
 == Screenshots ==
+
+
+
+1. QR code under a post
+2. The options page
 
 
 == Changelog ==
