@@ -35,7 +35,7 @@ function qrcode_show() {
 	
 		echo "<div class=\"qrcode\">\n";
 		
-		echo '<img class="qr" src="'.get_settings('home').'/wp-content/plugins/createqr/scripts/php/qr_img.php?d='."";
+		echo '<img class="qr" src="'.get_bloginfo('siteurl').'/wp-content/plugins/'.dirname(plugin_basename(__FILE__)).'/scripts/php/qr_img.php?d='."";
 		
 		echo ''.the_permalink().'&e=M&s='.get_option('size').'&t=J"/>'."\n";
 		
