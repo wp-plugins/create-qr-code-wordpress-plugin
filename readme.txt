@@ -4,7 +4,7 @@ Donate link: http://www.arjentienkamp.com/weblog/
 Tags: QR code, Generate, Create, Quick Response, Mobile, QR, Content, Posts, Pages
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 1.2
+Stable tag: 1.3
 
 Automatically generates QR codes for your posts and pages.
 
