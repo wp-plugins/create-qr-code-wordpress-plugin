@@ -3,7 +3,7 @@
 Plugin Name: Create QR code plugin
 Plugin URI: http://www.arjentienkamp.com/weblog/projects/create-qr-code-wordpress-plugin/
 Description: Create QR codes for your Wordpress posts and pages
-Version: 1.0
+Version: 1.2
 Author: Arjen Tienkamp
 Author URI: http://www.arjentienkamp.com/weblog/
 License: GPL
