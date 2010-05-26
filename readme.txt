@@ -35,6 +35,8 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 
 == Changelog ==
 
+26 may 2010   - Minor bugs have been fixed (plugin stopped working after directory name change)
+
 28 april 2010 - Options page has been added
 
 
