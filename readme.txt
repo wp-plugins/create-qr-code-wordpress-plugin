@@ -29,8 +29,8 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 
 
 
-1. QR code under a post
-2. The options page
+1. QR code under a post.
+2. The options page.
 
 
 == Changelog ==
