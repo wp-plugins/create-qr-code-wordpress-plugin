@@ -6,10 +6,11 @@ Requires at least: 2.0.2
 Tested up to: 2.9.2
 Stable tag: 1.3
 
-Automatically generates QR codes for your posts and pages.
+
 
 == Description ==
 
+Automatically generates QR codes for your posts and pages.
 
 After activating the plugin it automatically generates a QR (Quick Response) code for any post or page you want. These codes can be scanned by smartphones, and will point its browser to your wordpress website or blog.
 
