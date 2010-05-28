@@ -4,7 +4,7 @@ Donate link: http://www.arjentienkamp.com/weblog/
 Tags: QR code, Generate, Create, Quick Response, Mobile, QR, Content, Posts, Pages
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 1.3
+Stable tag: 1.4
 
 
 
@@ -35,6 +35,8 @@ After activating the plugin it automatically generates a QR (Quick Response) cod
 
 
 == Changelog ==
+
+28 may 2010   - Error correction options have been added
 
 26 may 2010   - Minor bugs have been fixed (plugin stopped working after directory name change)
 
